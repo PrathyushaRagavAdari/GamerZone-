@@ -31,3 +31,6 @@ The system employs a multimodal chaining strategy, built entirely in Python, uti
 1. Open the included `Week_14_Hands_On_Challenge.ipynb` in Google Colab.
 2. Enable a T4 GPU (Runtime > Change runtime type).
 3. Run all cells. The script will download the models, process simulated audio, and output a `custom_player_soundtrack.wav` file.
+
+## Demo Video 
+https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8111bcfa-f28d-4a86-9a13-b43a00481e6e
