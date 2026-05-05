@@ -35,6 +35,7 @@ The system employs a multimodal chaining strategy, built entirely in Python, uti
 ## Demo Video 
 https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8111bcfa-f28d-4a86-9a13-b43a00481e6e
 
+#
 # 🎮 SonicGen v2.0: Multimodal Player DNA Studio
 **Foundation Models for Speech, Music, and Sound AI**
 
