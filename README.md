@@ -59,6 +59,7 @@ SonicGen v2.0 is a massive upgrade to the original audio-driven pipeline. It is 
 ## 🗂️ Repository Contents
 * **`main.py`**: The enhanced core Python notebook executing the multimodal AI workflow. 
 * **`SonicGen_v2.pdf`**: An enhanced comprehensive slide deck detailing the problem, pipeline architecture, prompt engineering strategies, and evaluation metrics.
+* **`SonicGen_Final_Report.pdf`**: The Final Report 
 * **`Output/`**: Directory containing updated files demonstrating the enhanced pipeline's end-to-end functionality.
 
 ## ⚙️ How to Run the App
