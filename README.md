@@ -73,3 +73,4 @@ SonicGen v2.0 is a massive upgrade to the original audio-driven pipeline. It is 
 SonicGen provides a blueprint for SaaS integration into platforms like Discord or OBS, offering streamers copyright-free, emotion-driven background music, and offering indie game developers a way to increase player retention through deeper audio immersion.
 
 ## Demo Video 
+https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=334ab918-cc1f-4008-8eeb-b441003cdebd
